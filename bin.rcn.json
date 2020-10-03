@@ -210,7 +210,7 @@
     "  const flip = cd == right_dir;",
     "  const x = cx - (flip ? 2 : 6);",
     "  ",
-    "  let cspr = cidle ? char_idle_spr[flr(frame / 8) % 2] : char_walk_spr[flr(frame / 3) % 4];",
+    "  let cspr = cidle ? char_idle_spr[flr(frame / 16) % 2] : char_walk_spr[flr(frame / 3) % 4];",
     "  ",
     "  if(cstamp > 0) {",
     "    cspr = char_stamp_spr[1];",
