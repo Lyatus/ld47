@@ -219,8 +219,6 @@
     "    cspr = char_stamp_spr[0];",
     "  }",
     "  spr(cspr, x, cy - 14, 1, 2, flip);",
-    "  ",
-    "  pset(cx, cy, 1);",
     "}",
     "",
     "// Package functions",
