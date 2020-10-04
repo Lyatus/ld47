@@ -128,7 +128,7 @@
     "function menu_controls_draw() {",
     "  cls(0);",
     "  cam();",
-    "  map(16,48,0,0,16,16);",
+    "  map(19,48,0,0,16,16);",
     "  const arrows = btns((frame >> 4) % 4);",
     "  const controls =",
     "    arrows + \" MOVE\\n\\n\" +",
