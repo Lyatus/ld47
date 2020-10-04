@@ -244,7 +244,7 @@
     "  ",
     "  if(cstamp > 0) {",
     "    cspr = char_stamp_spr[1];",
-    "  } else if(cidle && (boss_target || package_target)) {",
+    "  } else if(cidle && (boss_target || package_target || machine_target)) {",
     "    cspr = char_stamp_spr[0];",
     "  }",
     "  spr(cspr, x, cy - 14, 1, 2, flip);",
