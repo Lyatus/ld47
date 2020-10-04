@@ -506,7 +506,7 @@
     "",
     "function mach_hit(x, y) {",
     "  for(let m of machines) {",
-    "    if(dist(m.x, m.y, cx, cy) < mach_target_radius) {",
+    "    if(dist(m.x + 4, m.y + 4, cx, cy) < mach_target_radius) {",
     "       m.state = min(m.state + 1, 4);",
     "    }",
     "  }",
