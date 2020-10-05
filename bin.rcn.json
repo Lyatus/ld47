@@ -340,7 +340,7 @@
     "    if(p.y < 14) {",
     "      package_status[p.side] = (p.spr ? 1 : -1) * package_status_time;",
     "      p.spr ? package_success_sfx() : package_failure_sfx();",
-    "      package_score = mid(package_score + (p.spr ? 0.7 : -1), -5, 5);",
+    "      package_score = mid(package_score + (p.spr ? 0.1 : -1), -5, 5);",
     "    }",
     "  }",
     "  ",
