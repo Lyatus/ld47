@@ -42,7 +42,7 @@
     "const mach_target_radius = 20;",
     "",
     "const stamp_texts = [",
-    "  \"MEH\", \"OKAY\", \"PASSABLE\", \"ALRIGHT\", \"YEP\", \"MKAY\",",
+    "  \"MEH\", \"OK\", \"PASSABLE\", \"ALRIGHT\", \"YEP\", \"MKAY\",",
     "  \"SURE\", \"FAIR\", \"ADEQUATE\", \"BORING\", \"ACCEPTABLE\",",
     "  \"SATISFACTORY\", \"DECENT\",",
     "];",
