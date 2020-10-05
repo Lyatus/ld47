@@ -525,7 +525,7 @@
     "}",
     "",
     "function boss_spawn_door() {",
-    "  boss_spawn(60, 32);",
+    "  boss_spawn(56, 24);",
     "  game_open_door();",
     "  boss_spawned = true;",
     "}",
