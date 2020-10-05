@@ -49,7 +49,7 @@
     "const hit_texts = [",
     "  \"NICE!\", \"PERFECT!\", \"AWESOME!\", \"DAMN!\", \"MARVELOUS!\",",
     "  \"EXCELLENT!\", \"BRILLIANT!\", \"SAVAGE!\", \"IMPRESSIVE!\",",
-    "  \"YEAH!\",",
+    "  \"YEAH!\", \"AMAZING!\", \"INCREDIBLE!\", \"BRUTAL!\", \"RUTHLESS!\",",
     "];",
     "",
     "let frame = 0;",
